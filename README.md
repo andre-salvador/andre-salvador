@@ -1,14 +1,14 @@
 ## Eai, tudo certo?! Bem-vindo! Sou o André Salvador. Prazer 😉
   
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- 
+- 🔭 Estudando...
+- 🌱 Focado em me desenvolver como Full Stack em Python
+- 📫 Contato: andrersalvador@hotmail.com
+
+
 <div>
    <a href="https://github.com/andre-salvador">
-   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=andre-salvador&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-salvador&layout=compact&langs_count=7&theme=dark"/>
+   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=andre-salvador&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-salvador&layout=compact&langs_count=7&theme=dark"/>
  </div>
  <div style="display: inline_block"><br>
   <img align="center" alt="Andre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -26,7 +26,4 @@
   
   ![Snake animation](https://github.com/andre-salvador/andre-salvador/blob/output/github-contribution-grid-snake.svg)
   
-</div>
-  
-
-
+  </div>
