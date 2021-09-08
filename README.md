@@ -1,4 +1,4 @@
-## Eai, tudo certo?! Sou o André Salvador! Bem-vindo ao meu GitHub!😉
+## Eai, tudo certo?! Sou o André Salvador, Bem-vindo ao meu GitHub!😉
   
 - 🔭 Estudando...
 - 🌱 Focado em me desenvolver como Full Stack em Python
